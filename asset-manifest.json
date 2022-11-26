@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.baa2d0c8.css",
+    "main.js": "/static/js/main.8572a1a4.js",
+    "static/js/787.a0f0dec6.chunk.js": "/static/js/787.a0f0dec6.chunk.js",
+    "static/media/Tythe_02.jpg": "/static/media/Tythe_02.2dbd0f73dd28c88a6522.jpg",
+    "static/media/Tythe_01.jpg": "/static/media/Tythe_01.7b8cc6591926c90b32b3.jpg",
+    "static/media/Tythe_Header.jpg": "/static/media/Tythe_Header.b185c6aa265ba71b487f.jpg",
+    "static/media/MrEavesXLModOT-Bold.ttf": "/static/media/MrEavesXLModOT-Bold.fbb5027d718943e21eb9.ttf",
+    "static/media/ElectraLTStd-Regular.otf": "/static/media/ElectraLTStd-Regular.38bd6182d6201fca753d.otf",
+    "index.html": "/index.html",
+    "main.baa2d0c8.css.map": "/static/css/main.baa2d0c8.css.map",
+    "main.8572a1a4.js.map": "/static/js/main.8572a1a4.js.map",
+    "787.a0f0dec6.chunk.js.map": "/static/js/787.a0f0dec6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baa2d0c8.css",
+    "static/js/main.8572a1a4.js"
+  ]
+}
