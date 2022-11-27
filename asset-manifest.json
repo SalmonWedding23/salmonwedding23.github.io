@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3a2780b.css",
-    "main.js": "/static/js/main.92cbd89d.js",
+    "main.css": "/static/css/main.b93f81cc.css",
+    "main.js": "/static/js/main.8fbf3b6b.js",
     "static/js/787.a0f0dec6.chunk.js": "/static/js/787.a0f0dec6.chunk.js",
     "static/media/Tythe_02.jpg": "/static/media/Tythe_02.2dbd0f73dd28c88a6522.jpg",
     "static/media/Tythe_01.jpg": "/static/media/Tythe_01.7b8cc6591926c90b32b3.jpg",
@@ -10,12 +10,12 @@
     "static/media/MrEavesXLModOT-Bold.ttf": "/static/media/MrEavesXLModOT-Bold.fbb5027d718943e21eb9.ttf",
     "static/media/ElectraLTStd-Regular.otf": "/static/media/ElectraLTStd-Regular.38bd6182d6201fca753d.otf",
     "index.html": "/index.html",
-    "main.c3a2780b.css.map": "/static/css/main.c3a2780b.css.map",
-    "main.92cbd89d.js.map": "/static/js/main.92cbd89d.js.map",
+    "main.b93f81cc.css.map": "/static/css/main.b93f81cc.css.map",
+    "main.8fbf3b6b.js.map": "/static/js/main.8fbf3b6b.js.map",
     "787.a0f0dec6.chunk.js.map": "/static/js/787.a0f0dec6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3a2780b.css",
-    "static/js/main.92cbd89d.js"
+    "static/css/main.b93f81cc.css",
+    "static/js/main.8fbf3b6b.js"
   ]
 }
